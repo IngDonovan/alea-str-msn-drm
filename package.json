@@ -1,0 +1,23 @@
+{
+  "name": "alea-str-msn-drm",
+  "version": "1.0.0",
+  "description": "Mensajes Aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IngDonovan/alea-str-msn-drm.git"
+  },
+  "author": "Donovan Rojas <rojasdrm03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngDonovan/alea-str-msn-drm/issues"
+  },
+  "homepage": "https://github.com/IngDonovan/alea-str-msn-drm#readme",
+  "bin": {
+    "alea-str-msn-drm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
